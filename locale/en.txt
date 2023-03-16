@@ -1,0 +1,29 @@
+#: locale=en
+
+## Media
+
+### 360 Video
+
+### Audio
+audiores_F4122EB0_E511_3010_41D4_42F8BC8450B9.mp3Url = media/audio_F4D60587_E511_30F0_41DC_C992F40651BD_en.mp3
+
+### Title
+video_E9120E94_E4FF_015C_41B4_805C1F296569.label = 01 Video Intro Intacta
+media_F802828D_E978_9EE2_41A2_5A6E5125E141.label = videoloop
+
+### Video
+videores_F8517199_E97B_9AE2_41E5_FBB56C2BB392.url = media/media_F802828D_E978_9EE2_41A2_5A6E5125E141_en.mp4
+videores_E76762BD_E978_9E22_41D4_24FA73C110FA.url = media/media_F802828D_E978_9EE2_41A2_5A6E5125E141_en_1.mp4
+videores_F8517199_E97B_9AE2_41E5_FBB56C2BB392.posterURL = media/media_F802828D_E978_9EE2_41A2_5A6E5125E141_poster_en.jpg
+videores_E76762BD_E978_9E22_41D4_24FA73C110FA.posterURL = media/media_F802828D_E978_9EE2_41A2_5A6E5125E141_poster_en.jpg
+videolevel_E7D4866C_E978_6622_41EA_9206D3276D7E.url = media/video_E9120E94_E4FF_015C_41B4_805C1F296569_en.mp4
+videolevel_E7D4866C_E978_6622_41EA_9206D3276D7E.posterURL = media/video_E9120E94_E4FF_015C_41B4_805C1F296569_poster_en.jpg
+
+### Video Subtitles
+
+## Tour
+
+### Description
+
+### Title
+tour.name = IntactaVR
