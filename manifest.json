@@ -1,5 +1,7 @@
 {
  "display": "fullscreen",
+ "start_url": "index.htm?installed=true",
+ "theme_color": "#FFFFFF",
  "name": "IntactaVR",
  "icons": [
   {
@@ -38,7 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF",
- "start_url": "index.htm?installed=true",
  "background_color": "#FFFFFF"
 }
